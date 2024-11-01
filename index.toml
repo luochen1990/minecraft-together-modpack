@@ -1,2 +1,101 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "c842647bf2f4cc2bbe7d1f1b14ee866437cdecf42aacb07dacc3a11501ccd8d6"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "81c268e28ad8204470516c226dd0507ae4fa62e003ea8fb5f55ec2ebdd725f83"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.pw.toml"
+hash = "68452d7f7f35fd0857c2732c191347a37d4749180d299b2eba48350503a9b54e"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "567ae88bb53d6996b17f6f122cc3a0e4056f104dcb02204a0e09eae47be77f57"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6781d16eadeb0c3795428014f55979736795206072637df5a8ac9344a107d9db"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "3490e7a545541aaecd9d528dfbdc8bacd44aa5f2dfa6ac647c16612d51241ac0"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "2645fbb800b5c53e3e8937489dcf036b9c40cfdc3d8674d6231a5f0fd0a7aeff"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "5a59acd65515e32d8fc517a78419ddd2d80a2871af463b5da4070f7a1e39f008"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ac504109545d06bf91471b5f59a0a7f8d0665f0b4d3ed3358ec8a89f3a829dfd"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "c5c194dc207591a5f18728c7b18da7a1900b65005f23b1acd490ee04aec6b518"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "3ce38dadc07ecf0f4c3e9f73880dcd3ec2a83a92a24d4a6d9faef6d50eea28a2"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "1b4d899ede73ea951776f8cef00bdde90a85ed04e4b49de1fddf0480f93d959d"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "e9133c80c483d4741651144ded2937be8454d673f08a720ce568c89c0050345e"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "6db5630aba9b540b81f9892d91fd26c1a1a9b988e3c475fdad553cfe6a2fedd4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "97b1e671200490832c505879f0cb23f04c0d12a610abab9d5da2a63a62d37688"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "f3863e62ad60a846ff07dc148226d2990a57198803646e3b81334a78259585ef"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c06ffc9de8c8b6c1e9099c05fcfa94d9ae9bff768ff138798ab3a2da545995d5"
+metafile = true

@@ -91,6 +91,11 @@ hash = "97b1e671200490832c505879f0cb23f04c0d12a610abab9d5da2a63a62d37688"
 metafile = true
 
 [[files]]
+file = "mods/tick-stasis.pw.toml"
+hash = "fd8c56cc47b637a51a235badf7b285df0c1d43160c3668f1d759816f1d2edebb"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "f3863e62ad60a846ff07dc148226d2990a57198803646e3b81334a78259585ef"
 metafile = true

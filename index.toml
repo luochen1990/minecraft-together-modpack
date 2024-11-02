@@ -76,6 +76,11 @@ hash = "e9133c80c483d4741651144ded2937be8454d673f08a720ce568c89c0050345e"
 metafile = true
 
 [[files]]
+file = "mods/slumber.pw.toml"
+hash = "90b2648efee46c0856f51e99e9baee04a74045e0b4e31b5751b1e36d3a60a255"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "6db5630aba9b540b81f9892d91fd26c1a1a9b988e3c475fdad553cfe6a2fedd4"
 metafile = true

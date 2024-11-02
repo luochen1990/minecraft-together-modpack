@@ -11,6 +11,11 @@ hash = "81c268e28ad8204470516c226dd0507ae4fa62e003ea8fb5f55ec2ebdd725f83"
 metafile = true
 
 [[files]]
+file = "mods/easyauth.pw.toml"
+hash = "68452d7f7f35fd0857c2732c191347a37d4749180d299b2eba48350503a9b54e"
+metafile = true
+
+[[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "567ae88bb53d6996b17f6f122cc3a0e4056f104dcb02204a0e09eae47be77f57"
 metafile = true

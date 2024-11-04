@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "icon.png"
+hash = "27277f02dd47a81b87acb61716153f4665f4397a03f9750d7b713869498c2edb"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "c842647bf2f4cc2bbe7d1f1b14ee866437cdecf42aacb07dacc3a11501ccd8d6"
 metafile = true
@@ -111,6 +115,10 @@ hash = "c06ffc9de8c8b6c1e9099c05fcfa94d9ae9bff768ff138798ab3a2da545995d5"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "48746a22b1437b4518dfc344a659f91e68547f15295122dffdeb8099a1e4a17e"
+
+[[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
 hash = "2ea77bfd68843180224ef178cb71a37a0662eac81c23f2bae7516d9fe4ec0c1d"
 metafile = true
@@ -124,6 +132,10 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "d143affd9505ddeb4aae8bcd4a2ada88b9d306625c710ea58e5c984c977de33e"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

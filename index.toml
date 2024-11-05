@@ -209,6 +209,11 @@ file = "options.txt"
 hash = "48746a22b1437b4518dfc344a659f91e68547f15295122dffdeb8099a1e4a17e"
 
 [[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "4e5a1d1713e927fe0d219653b2f04175fb13b7e52eaf16c081be6b1a022a5d8c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
 hash = "2ea77bfd68843180224ef178cb71a37a0662eac81c23f2bae7516d9fe4ec0c1d"
 metafile = true

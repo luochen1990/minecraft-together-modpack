@@ -145,6 +145,11 @@ hash = "1b4d899ede73ea951776f8cef00bdde90a85ed04e4b49de1fddf0480f93d959d"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "96b8fade2a824e801e228205da7bdcca91c87716c7e61a09278c5e5c5e09631a"
+metafile = true
+
+[[files]]
 file = "mods/pv-addon-broadcast.pw.toml"
 hash = "8dcc530563cbd42a3f50dabd72ea72519130d5315438188c9a2f7be46cc89420"
 metafile = true
@@ -187,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/tick-stasis.pw.toml"
 hash = "fd8c56cc47b637a51a235badf7b285df0c1d43160c3668f1d759816f1d2edebb"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "1aaf5c658e16921c301f400c55d20fe9891ae8be27e044fd5249883e50af85c0"
 metafile = true
 
 [[files]]

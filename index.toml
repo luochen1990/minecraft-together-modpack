@@ -20,6 +20,11 @@ hash = "570fb59d05503e37db8a03fa8fb9067559b04474a7ac4264ddf189723f1ad525"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "01e471af0769f08cb24a53df4971f01a05370f19a8221d62bd2b1aee0f1ccab1"
+metafile = true
+
+[[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "567ae88bb53d6996b17f6f122cc3a0e4056f104dcb02204a0e09eae47be77f57"
 metafile = true
@@ -55,6 +60,11 @@ hash = "5a59acd65515e32d8fc517a78419ddd2d80a2871af463b5da4070f7a1e39f008"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "4e8d72c34cceb437071a8d1e7a4bd37bb875e9219b5b4a194ab23c7d1a87e78e"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ac504109545d06bf91471b5f59a0a7f8d0665f0b4d3ed3358ec8a89f3a829dfd"
 metafile = true
@@ -62,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "4c1d4d8a16d7951b664d4fc21ee972b455414578071d918bdbadc5143d359cb3"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "fd902023333e13ae8e97a2a85d8732d6e60bc5479274d2308193c469d995fb84"
 metafile = true
 
 [[files]]

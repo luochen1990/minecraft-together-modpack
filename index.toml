@@ -85,6 +85,11 @@ hash = "1b4d899ede73ea951776f8cef00bdde90a85ed04e4b49de1fddf0480f93d959d"
 metafile = true
 
 [[files]]
+file = "mods/pv-addon-groups.pw.toml"
+hash = "2be920ec1bf64bd1b9c9bc53db177b0c6f2912b4f49521ab1376a6dc3bdb1c4a"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "e9133c80c483d4741651144ded2937be8454d673f08a720ce568c89c0050345e"
 metafile = true
@@ -97,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "97b1e671200490832c505879f0cb23f04c0d12a610abab9d5da2a63a62d37688"
+metafile = true
+
+[[files]]
+file = "mods/talkingheads.pw.toml"
+hash = "6df3c8606b606daf8a6dff6230299bd2be27e6418792a43f11db2f2ac6a73a5a"
 metafile = true
 
 [[files]]

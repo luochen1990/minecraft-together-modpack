@@ -1,0 +1,13 @@
+name = "Talking Heads"
+filename = "TalkingHeads-1.0.1+1.21+plasmovoice.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Os35nfkh/versions/MTj9TVm1/TalkingHeads-1.0.1%2B1.21%2Bplasmovoice.jar"
+hash-format = "sha1"
+hash = "a9d8001c9899b286282ecdafd40b14996b1e9f25"
+
+[update]
+[update.modrinth]
+mod-id = "Os35nfkh"
+version = "MTj9TVm1"

@@ -165,6 +165,11 @@ hash = "c06ffc9de8c8b6c1e9099c05fcfa94d9ae9bff768ff138798ab3a2da545995d5"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "48746a22b1437b4518dfc344a659f91e68547f15295122dffdeb8099a1e4a17e"
 

@@ -125,6 +125,11 @@ hash = "3ce38dadc07ecf0f4c3e9f73880dcd3ec2a83a92a24d4a6d9faef6d50eea28a2"
 metafile = true
 
 [[files]]
+file = "mods/physicsmod.pw.toml"
+hash = "faa0953af625abb51db65d34e519b5338d92275033289baac1e8390f8290aea8"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
 metafile = true

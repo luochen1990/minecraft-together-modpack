@@ -120,6 +120,11 @@ hash = "1b4d899ede73ea951776f8cef00bdde90a85ed04e4b49de1fddf0480f93d959d"
 metafile = true
 
 [[files]]
+file = "mods/pv-addon-broadcast.pw.toml"
+hash = "8dcc530563cbd42a3f50dabd72ea72519130d5315438188c9a2f7be46cc89420"
+metafile = true
+
+[[files]]
 file = "mods/pv-addon-groups.pw.toml"
 hash = "2be920ec1bf64bd1b9c9bc53db177b0c6f2912b4f49521ab1376a6dc3bdb1c4a"
 metafile = true

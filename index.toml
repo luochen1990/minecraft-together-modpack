@@ -224,6 +224,11 @@ hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
 metafile = true
 
 [[files]]
+file = "resourcepacks/redstoneauxiliary.pw.toml"
+hash = "dcdf8726943d78ea5216b94a6d9c6e00e86bd4639eb3e66af8551e6acb24e0b7"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "d143affd9505ddeb4aae8bcd4a2ada88b9d306625c710ea58e5c984c977de33e"
 

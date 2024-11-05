@@ -65,11 +65,6 @@ hash = "2645fbb800b5c53e3e8937489dcf036b9c40cfdc3d8674d6231a5f0fd0a7aeff"
 metafile = true
 
 [[files]]
-file = "mods/imblocker-original.pw.toml"
-hash = "dfb711f3c7c8a07eb794cb7b9025d81289ac02d9c227f9e26760091dd7573725"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "18f74c79c9e7278a30de44021997df48ce2f4f292181f5ad7712e4fb4fd6f8bc"
 metafile = true

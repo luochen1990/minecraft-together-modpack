@@ -25,6 +25,11 @@ hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "e5cbc5221d474cb7e95447c5bccd5be8a1e7df24b4416dc3b694b7c7141f68c1"
+metafile = true
+
+[[files]]
 file = "mods/customskinloader.pw.toml"
 hash = "570fb59d05503e37db8a03fa8fb9067559b04474a7ac4264ddf189723f1ad525"
 metafile = true
@@ -147,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "6331d0c83f6528a411fc12d672a305c4be0d6f9ff8099cc98e10fe4c5b107c6e"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "fd3ca3a862640f7ad76d46a7e7551e487c3d48e9107e8e1f40e065fe3fd8a4ed"
 metafile = true
 
 [[files]]

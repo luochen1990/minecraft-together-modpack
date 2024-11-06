@@ -49,11 +49,11 @@ any_context = false
 category = "hidden"
 
 [[key_bindings.keys]]
-code = 342
+code = 341
 type = "KEYSYM"
 
 [[key_bindings.keys]]
-code = 77
+code = 258
 type = "KEYSYM"
 
 [[key_bindings]]
@@ -62,11 +62,11 @@ any_context = false
 category = "hidden"
 
 [[key_bindings.keys]]
-code = 342
+code = 341
 type = "KEYSYM"
 
 [[key_bindings.keys]]
-code = 77
+code = 258
 type = "KEYSYM"
 
 [[key_bindings]]

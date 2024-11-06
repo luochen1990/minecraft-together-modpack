@@ -249,9 +249,8 @@ hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
 metafile = true
 
 [[files]]
-file = "resourcepacks/redstoneauxiliary.pw.toml"
-hash = "dcdf8726943d78ea5216b94a6d9c6e00e86bd4639eb3e66af8551e6acb24e0b7"
-metafile = true
+file = "resourcepacks/redstoneauxiliary.zip"
+hash = "9597a06dacbf8655d71d828d540988d6fbaac47c138f799f5efc2c4bf5c89300"
 
 [[files]]
 file = "resourcepacks/round-trees.pw.toml"

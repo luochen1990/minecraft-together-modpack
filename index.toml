@@ -13,6 +13,10 @@ file = "config/yosbr/options.txt"
 hash = "9b8f5648623af1e7b22570a024282a6235ecba9fc548854b3c1fbb98b4fc0c99"
 
 [[files]]
+file = "config/yosbr/servers.dat"
+hash = "d143affd9505ddeb4aae8bcd4a2ada88b9d306625c710ea58e5c984c977de33e"
+
+[[files]]
 file = "icon.png"
 hash = "27277f02dd47a81b87acb61716153f4665f4397a03f9750d7b713869498c2edb"
 
@@ -264,10 +268,6 @@ hash = "9597a06dacbf8655d71d828d540988d6fbaac47c138f799f5efc2c4bf5c89300"
 file = "resourcepacks/round-trees.pw.toml"
 hash = "47457b10010215abda96366b8ca75887cfae6bc695a2198e5801add260d4bc4b"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "d143affd9505ddeb4aae8bcd4a2ada88b9d306625c710ea58e5c984c977de33e"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

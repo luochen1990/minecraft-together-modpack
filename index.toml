@@ -121,6 +121,11 @@ hash = "4e8d72c34cceb437071a8d1e7a4bd37bb875e9219b5b4a194ab23c7d1a87e78e"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "f4417240155f5ddcbd1c55e892ca69e47e3b32b7a41625b6f323023ca6019075"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ac504109545d06bf91471b5f59a0a7f8d0665f0b4d3ed3358ec8a89f3a829dfd"
 metafile = true

@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".direnv/flake-profile"
+hash = "528c6b0404b7cba909662962e24e1ef02c0b0abe2b490c3e2e4c86111dc1949e"
+
+[[files]]
+file = ".direnv/flake-profile-1-link"
+hash = "528c6b0404b7cba909662962e24e1ef02c0b0abe2b490c3e2e4c86111dc1949e"
+
+[[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "577e8798244da83a6c9c8ea30f5d1ec605d4ffb3241f9885248a7691ba1fdbec"
+hash = "b0f7eb89f861653fb4b1a5cc23f0fa1e730dded34ea8ad538b2493df034f45a5"
 
 [[files]]
 file = "config/yosbr/config/plasmovoice/client.toml"
-hash = "c1bd42774edc8270b72bff9e7858a5380639b3d53c988a195db273adf03ccdfa"
+hash = "1f9e055adb7494cd12418736f40647136e430ed86f76fdd4cee7633a7cce0c23"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -15,6 +23,10 @@ hash = "9b8f5648623af1e7b22570a024282a6235ecba9fc548854b3c1fbb98b4fc0c99"
 [[files]]
 file = "config/yosbr/servers.dat"
 hash = "d143affd9505ddeb4aae8bcd4a2ada88b9d306625c710ea58e5c984c977de33e"
+
+[[files]]
+file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
+hash = "8f2e4db1280ae4619314c87aa2d95502116b10e6fca035de5b6a132522c066d0"
 
 [[files]]
 file = "icon.png"

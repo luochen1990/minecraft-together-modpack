@@ -276,6 +276,11 @@ hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
 metafile = true
 
 [[files]]
+file = "resourcepacks/patrix-32x.pw.toml"
+hash = "149a455f7ae53e72a46590f5690291229f1844ee7d8d718248b9011685820f59"
+metafile = true
+
+[[files]]
 file = "resourcepacks/rays-3d-ladders.pw.toml"
 hash = "2065785370c5a0454cc62911b5e457c6022fb5e2dbb3b32453e82c2857e562fe"
 metafile = true

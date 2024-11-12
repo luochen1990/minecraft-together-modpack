@@ -276,6 +276,11 @@ hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
 metafile = true
 
 [[files]]
+file = "resourcepacks/rays-3d-ladders.pw.toml"
+hash = "2065785370c5a0454cc62911b5e457c6022fb5e2dbb3b32453e82c2857e562fe"
+metafile = true
+
+[[files]]
 file = "resourcepacks/redstoneauxiliary.zip"
 hash = "9597a06dacbf8655d71d828d540988d6fbaac47c138f799f5efc2c4bf5c89300"
 

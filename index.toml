@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "570fb59d05503e37db8a03fa8fb9067559b04474a7ac4264ddf189723f1ad525"
+hash = "f89a7b4fd751c3a7b60038f0480fa03e388f6c0095cea12afc040d405b0148c6"
 metafile = true
 
 [[files]]
@@ -119,17 +119,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "18f74c79c9e7278a30de44021997df48ce2f4f292181f5ad7712e4fb4fd6f8bc"
+hash = "13de12a229097fba5d719c44c5f148f798121bd1b42284658f87410879fa1aa7"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "5a59acd65515e32d8fc517a78419ddd2d80a2871af463b5da4070f7a1e39f008"
+hash = "903a92c35e56ee154fcc19f3b48820842f9993dcd25a916bf8df284827bb0fc7"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "4e8d72c34cceb437071a8d1e7a4bd37bb875e9219b5b4a194ab23c7d1a87e78e"
+hash = "903347eb5b925448b3aa89aa596c2c53534acf25fdd85ed755950139564053e3"
 metafile = true
 
 [[files]]

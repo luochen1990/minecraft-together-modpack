@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".direnv/flake-profile"
-hash = "528c6b0404b7cba909662962e24e1ef02c0b0abe2b490c3e2e4c86111dc1949e"
-
-[[files]]
-file = ".direnv/flake-profile-1-link"
-hash = "528c6b0404b7cba909662962e24e1ef02c0b0abe2b490c3e2e4c86111dc1949e"
-
-[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "b0f7eb89f861653fb4b1a5cc23f0fa1e730dded34ea8ad538b2493df034f45a5"
 

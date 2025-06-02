@@ -100,11 +100,6 @@ hash = "1f6c74d7140e368e85df87d1bdbb4b533052488dcee7e23ecc1f699dfd2efe82"
 metafile = true
 
 [[files]]
-file = "mods/fallingtree.pw.toml"
-hash = "3490e7a545541aaecd9d528dfbdc8bacd44aa5f2dfa6ac647c16612d51241ac0"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
 metafile = true

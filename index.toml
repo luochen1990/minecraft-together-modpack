@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "794b7e05c11ddef2688e8e99f835acb7089167318db93e8e1b9fa7e55678a2ca"
+hash = "faa0953af625abb51db65d34e519b5338d92275033289baac1e8390f8290aea8"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/talkingheads.pw.toml"
-hash = "74606f49f2f6dc73f78709eb1b5bb490b38a78445024b58d7ce8b2ea103cf523"
+hash = "6df3c8606b606daf8a6dff6230299bd2be27e6418792a43f11db2f2ac6a73a5a"
 metafile = true
 
 [[files]]

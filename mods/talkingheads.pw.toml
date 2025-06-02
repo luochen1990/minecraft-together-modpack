@@ -1,13 +1,13 @@
 name = "Talking Heads"
-filename = "talkingheads-1.0.6+1.21.1.jar"
+filename = "TalkingHeads-1.0.1+1.21+plasmovoice.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Os35nfkh/versions/L52eFSYm/talkingheads-1.0.6%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "e008e9a218fad4756ea414c20427947dd81f7180ce4d2136fad56602c3a26f8c2a8224bdeb45e06c6cf07f34e292faaaa6c2944ac7ffa7007fba4efd8172bb99"
+url = "https://cdn.modrinth.com/data/Os35nfkh/versions/MTj9TVm1/TalkingHeads-1.0.1%2B1.21%2Bplasmovoice.jar"
+hash-format = "sha1"
+hash = "a9d8001c9899b286282ecdafd40b14996b1e9f25"
 
 [update]
 [update.modrinth]
 mod-id = "Os35nfkh"
-version = "L52eFSYm"
+version = "MTj9TVm1"

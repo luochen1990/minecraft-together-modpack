@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".claude/settings.local.json"
-hash = "65ee680327663a6ee13b62f8ac5393d97368232be113203dd966599eb5a90149"
-
-[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "b0f7eb89f861653fb4b1a5cc23f0fa1e730dded34ea8ad538b2493df034f45a5"
 

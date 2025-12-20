@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Os35nfkh/versions/Cnxu1FAl/TalkingHeads-1.0.9%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "d4b10bd49c895bf07a59a4c164620c2703d5119d2cc8e3a736d33898b7eb8a405c5daa7d3e775c949d159eb4eddf80cbaaed61137b9946bcd96f651bf852799f"
+hash-format = "sha1"
+hash = "1cebd7710c0b6dd06b4b9bcc76b090af28d0fdb1"
 
 [update]
 [update.modrinth]

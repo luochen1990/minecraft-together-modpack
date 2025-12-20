@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/kiByZ6gx/versions/MuHp7NZN/maplink-fabric-4.1.2-1.21-1.21.1.jar"
-hash-format = "sha512"
-hash = "b8a934f427b020257ed16df23448aa84a35934e76e671f82c8de2c7905afd28364790a6b0a4e55109e855ddd012e62da45d78d15fdb655823645ed4266c5b8d5"
+hash-format = "sha1"
+hash = "9a00fd06bc968b130fcc28601163ad0e19e9ab65"
 
 [update]
 [update.modrinth]

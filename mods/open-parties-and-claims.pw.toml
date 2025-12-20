@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/uUz4cbjU/open-parties-and-claims-fabric-1.21.1-0.25.8.jar"
-hash-format = "sha512"
-hash = "5d59fa9300c608c220b7da11e3fe538a924ff03004bcf8660862042f486d908be4e44184f3fc2c7ec628d12e83aaf8f57b3659822b87a0edc5bb10347f1480d5"
+hash-format = "sha1"
+hash = "63d9cd24c0ba8e4f7e72ff8e64db7a6acf191d68"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kfqD1JRw/versions/fGXmFJ8q/VisualWorkbench-v21.1.1-1.21.1-Fabric.jar"
-hash-format = "sha512"
-hash = "2cad5e792a1b27de446c64c994a1cd32511c1dc28640e13677e633cf021327520997d67ca3876732f429842d346aae792d8a7cea33cdff1debcfb81a51eed280"
+hash-format = "sha1"
+hash = "2cb424841dea0eb6073b8a78ea6ae81fa73da0bc"
 
 [update]
 [update.modrinth]

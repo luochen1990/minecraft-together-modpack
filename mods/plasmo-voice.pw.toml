@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/ZbxxzdUj/plasmovoice-fabric-1.21-2.1.8.jar"
-hash-format = "sha512"
-hash = "a35f55a606875c2c41bf0de412dadb47849955d96acb31049571cd9d38a189bd47ee6a27c89f9719703cde16e8a6a751f494c1ee4657bdfb0bde35468aea796f"
+hash-format = "sha1"
+hash = "9d687092290f7e5f9c4571645ad6379d84f03465"
 
 [update]
 [update.modrinth]

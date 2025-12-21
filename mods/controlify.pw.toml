@@ -1,0 +1,13 @@
+name = "Controlify (Controller support)"
+filename = "controlify-2.5.0+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/wDHVIuOE/controlify-2.5.0%2B1.21.1-fabric.jar"
+hash-format = "sha1"
+hash = "2a86350f5dd10f55b4c6e84f23c6fcfd649eb7ff"
+
+[update]
+[update.modrinth]
+mod-id = "DOUdJVEm"
+version = "wDHVIuOE"

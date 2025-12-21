@@ -55,6 +55,11 @@ hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "87f3a8c72871f27f1f5ffd7b330ec01b2d63e2f961dc82123c89a134df5d49a7"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "41d4f86aa2b5ebc5e60164e0120125a38c0ab2595738818c3bb439e96a58ecd6"
 metafile = true
@@ -230,6 +235,11 @@ hash = "fd8c56cc47b637a51a235badf7b285df0c1d43160c3668f1d759816f1d2edebb"
 metafile = true
 
 [[files]]
+file = "mods/touchcontroller.pw.toml"
+hash = "04c6dc31e47ef910c4d7469836295bd3397d784b1fa6aad77f4d2dcba6aee5a8"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "55161bbddd62159e99733efb4874f529432c6689ff063b20869324dbc818a0bb"
 metafile = true
@@ -247,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "bfd4607126b4079ac15505c489ee28eb6c5f24d74f1350de13c82cc953fd1377"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "399bc95ebed474b227fc8f3d084c3df656bb4de3c6593a7d2c9ee74bb4473bb5"
 metafile = true
 
 [[files]]

@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+# Pre-commit hook: Automatically run packwiz rehash sha1
+
+echo "Running packwiz rehash sha1..."
+
+if ! packwiz rehash sha1; then
+    echo "❌ Error: packwiz rehash sha1 failed"
+    echo "Please fix the issues before committing."
+    exit 1
+fi
+
+# Check if any files were modified
+if ! git diff --quiet; then
+    echo "📝 packwiz rehash modified files. Please stage the changes and commit again."
+    echo "Run: git add -A"
+    echo "Then: git commit"
+    exit 1
+fi
+
+echo "✓ packwiz rehash sha1 completed successfully"
+
+exit 0

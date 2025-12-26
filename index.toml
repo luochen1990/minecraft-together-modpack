@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "b0f7eb89f861653fb4b1a5cc23f0fa1e730dded34ea8ad538b2493df034f45a5"
+hash = "5a38fa47e2e75ebda317744411f96eaea3d44ed469f9996a9e9bf7afd402fdcf"
 
 [[files]]
 file = "config/yosbr/config/plasmovoice/client.toml"
 hash = "1f9e055adb7494cd12418736f40647136e430ed86f76fdd4cee7633a7cce0c23"
+
+[[files]]
+file = "config/yosbr/config/touchcontroller/config.json"
+hash = "da096269eed098416ffa94d35ea23e65f7f6cdd8a30f60a35e4e0db17f871fb2"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -41,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "7bd05600119b10f0bd9419bf65bedcd1cafb227091c2b6f509e6a97e43f6f69c"
+hash = "c5a49f0276b7c4211712b4c5afdf088d39b643619f886920a550e52dd5b5c81d"
 metafile = true
 
 [[files]]
@@ -66,12 +70,12 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "dc367e70f601289e75b26e376318e0aa9f95243b639aabec94111d58fa5db888"
+hash = "577e1e0ec4f73d857572df596af1623c023d7644de2b75aa0514a2f194551e64"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "8a2f9052b032ac1039ae2b5f7cc0741ebe81483a281c2feedb31ed516907b930"
+hash = "03364e1b6f976155b36a0d75c7da55096f58c7f4c15b5006e343ae1ae5f28e20"
 metafile = true
 
 [[files]]

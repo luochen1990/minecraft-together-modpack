@@ -2,5 +2,17 @@
   "regular": {
     "disableMouseMove": false,
     "disableMouseClick": false
+  },
+  "preset": {
+    "type": "builtin",
+    "key": {
+      "texture_set": "new",
+      "move_method": {
+        "type": "joystick",
+        "triggerSprint": true
+      },
+      "sprint_button_location": "right",
+      "scale": 0.5
+    }
   }
 }

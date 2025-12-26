@@ -119,6 +119,11 @@ hash = "3b6749a8f0a53d7e6c748651f2f58a297f20f2a7b72b083d63b81295559f626a"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c6e23606df551c5c2525a1b530b07580b49640fd659c768c0f66a4a2718162fa"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "b6f9dd6b376f4aee11cc58dda69d507f7b1b7e15181584875013ab3e5f761cd0"
 metafile = true
@@ -181,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "1e7d46ff69c5c01d3dea1620b2e95e588a828e1dce56bb8d03b1a48beaf51b7d"
+metafile = true
+
+[[files]]
+file = "mods/pokeblocks.pw.toml"
+hash = "863e1cae0d5b56cd7c67db095f4bb815b32364af28fadbbd84c36543ba6f24e4"
 metafile = true
 
 [[files]]

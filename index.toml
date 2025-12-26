@@ -10,7 +10,7 @@ hash = "1f9e055adb7494cd12418736f40647136e430ed86f76fdd4cee7633a7cce0c23"
 
 [[files]]
 file = "config/yosbr/config/touchcontroller/config.json"
-hash = "da096269eed098416ffa94d35ea23e65f7f6cdd8a30f60a35e4e0db17f871fb2"
+hash = "09672a7305be871150eb4ba6963bfb30f0fea4727212278d5dc4f9d53b61280e"
 
 [[files]]
 file = "config/yosbr/options.txt"
